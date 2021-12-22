@@ -10,7 +10,7 @@ section {
     text-align: center;
     margin-top: 100px;
 }
-.quiz {
+#quiz {
     color: rgba(190, 52, 52, 0.678);
 }
 #ogBtn {
@@ -21,17 +21,17 @@ section {
 #rdyMsg {
     color: maroon;
 }
-.submitBtn {
+#submit {
     border-radius: 20px;
  
     color: rgb(0, 95, 16);
 }
-.results {
+#results {
     color: goldenrod;
     position: relative;
     bottom: 150px;
 }
-.timer {
+#timer {
     color: red;
     text-align: right;
     position: relative;
